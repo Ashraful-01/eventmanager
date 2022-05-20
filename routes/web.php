@@ -21,7 +21,9 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/',[PageController::class,'index'])->name('/');
 
-//Route::get('/service',[PageController::class,'service'])->name('frontend.service');
+Route::get('/cateringservice',[PageController::class,'cateringservice'])->name('frontend.cateringservice');
+Route::get('/decoration',[PageController::class,'decoration'])->name('frontend.decoration');
+Route::get('/photography',[PageController::class,'photography'])->name('frontend.photography');
 
 
 //Normal User Auth
@@ -37,3 +39,5 @@ require __DIR__.'/auth.php';
 Route::group(['prefix' => 'admin'], function () {
     Voyager::routes();
 });
+
+

@@ -10,7 +10,17 @@ class PageController extends Controller
        return view('frontend.index');
     }
 
-    public function service(){
-        return view('');
+    public function cateringservice(){
+        return view('frontend.cateringservice');
      }
+
+     public function decoration(){
+      return view('frontend.decoration');
+   }
+
+   public function photography(){
+      return view('frontend.photography');
+   }
+
+    
 }

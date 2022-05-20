@@ -19,14 +19,13 @@
 
 <header class="header">
 
-    <a href="#" class="logo"><span>event</span>Manager</a>
+    <a href="/" class="logo"><span>event</span>Manager</a>
 
     <nav class="navbar">
-        <a href="#home">home</a>
+        <a href="/">home</a>
         <a href="#service">service</a>
         <a href="#about">about</a>
         <a href="#gallery">gallery</a>
-        <a href="#review">review</a>
         <a href="#contact">contact</a>
 
          <!--Login and Registration -->
@@ -48,7 +47,10 @@
 
 <!-- header section ends -->
 
-@yield('content')
+ 
+
+ @yield('content')
+ 
 
 
 
