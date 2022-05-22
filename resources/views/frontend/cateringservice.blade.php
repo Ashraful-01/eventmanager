@@ -7,15 +7,15 @@
     <form action="">
     <h1 class="heading"> <span>Catering Service</span></h1>
         <div class="inputBox">
-            <input type="text" placeholder="name">
-            <input type="email" placeholder="email">
+            <input type="text" placeholder="Address">
+            <input type="text" placeholder="Mobile Number">
         </div>
         <div class="inputBox">
-            <input type="number" placeholder="number">
-            <input type="text" placeholder="subject">
+            <input type="number" placeholder="Number Of Person">
+            <input type="text" placeholder="Food Item">
         </div>
-        <textarea name="" placeholder="your message" id="" cols="30" rows="10"></textarea>
-        <input type="submit" value="send message" class="btn">
+        <textarea name="" placeholder="Description" id="" cols="30" rows="10"></textarea>
+        <input type="submit" value="Confirm Order" class="btn">
     </form>
 
 </section>
