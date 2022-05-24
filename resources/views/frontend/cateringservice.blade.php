@@ -14,7 +14,7 @@
             <input type="number" placeholder="Number Of Person">
             <input type="text" placeholder="Food Item">
         </div>
-        <textarea name="" placeholder="Description" id="" cols="30" rows="10"></textarea>
+        <textarea name="" placeholder="Description" id="" cols="30" rows="5"></textarea>
         <input type="submit" value="Confirm Order" class="btn">
     </form>
 

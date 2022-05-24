@@ -14,7 +14,7 @@
             <input type="number" placeholder="number">
             <input type="text" placeholder="Events Type">
         </div>
-        <textarea name="" placeholder="Description" id="" cols="30" rows="10"></textarea>
+        <textarea name="" placeholder="Description" id="" cols="30" rows="5"></textarea>
         <input type="submit" value="Confirm Order" class="btn">
     </form>
 

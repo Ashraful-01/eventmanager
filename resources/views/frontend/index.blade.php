@@ -70,7 +70,7 @@
 
     <div class="content">
         <h3>we will give a very special celebration for you</h3>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam labore fugiat ut esse perferendis perspiciatis provident dolores fuga in facilis culpa possimus, quia praesentium itaque, sapiente quasi harum rem asperiores.</p>
+        <p>Welcome To our event manager. We offer different type of packages where you can organize your events. We offer decoration services and catering services and photography services for your Events.</p>
         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugiat vero expedita incidunt provident quibusdam aut odit, numquam nesciunt similique nisi.</p>
         <a href="#" class="btn">contact us</a>
     </div>
